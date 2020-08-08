@@ -6,7 +6,7 @@ description: This is meta description.
 draft: false
 image: images/post/header3.jpg
 tags:
-title: Social Architecture 2020 —Theory and Practice
+title: Social Architecture 2020             —Theory and Practice
 ---
 
 __Social Architecture — Theory and Practice__ aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it. Students will be exposed to key concepts, methods and goals developed in social architecture, an umbrella term that includes community architecture and planning, community design, social design, democratic design, community development, etc. which share a common approach of environmental design that encourages social behaviors leading towards certain public benefits, such as livability, safety, and sustainability. 
