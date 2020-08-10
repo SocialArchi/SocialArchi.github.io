@@ -1,40 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Persian</title>
+    <title>Tags on Social Architecture</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Persian</description>
+    <description>Recent content in Tags on Social Architecture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>thumb</title>
-      <link>/tags/thumb/</link>
-      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      <title>Community Engagement</title>
+      <link>/tags/community-engagement/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thumb/</guid>
+      <guid>/tags/community-engagement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>top</title>
-      <link>/tags/top/</link>
-      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      <title>Cultural Centre</title>
+      <link>/tags/cultural-centre/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/top/</guid>
+      <guid>/tags/cultural-centre/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>video</title>
-      <link>/tags/video/</link>
-      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      <title>Collective Ownership</title>
+      <link>/tags/collective-ownership/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/video/</guid>
+      <guid>/tags/collective-ownership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constuction Education</title>
+      <link>/tags/constuction-education/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/constuction-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Materials</title>
+      <link>/tags/local-materials/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/local-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>/tags/sustainability/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessibility for All</title>
+      <link>/tags/accessibility-for-all/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/accessibility-for-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Centred</title>
+      <link>/tags/community-centred/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/community-centred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratic Education</title>
+      <link>/tags/democratic-education/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/democratic-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>/tags/india/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>/tags/innovation/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Design</title>
+      <link>/tags/quality-design/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quality-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Tue, 01 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/tags/social/</link>
+      <pubDate>Tue, 01 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/tags/social/</guid>
       <description></description>
     </item>
     
@@ -44,15 +143,6 @@
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
       <guid>/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>green</title>
-      <link>/tags/green/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/green/</guid>
       <description></description>
     </item>
     
