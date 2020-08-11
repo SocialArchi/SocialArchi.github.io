@@ -97,3 +97,4 @@ leaflet() %>%
 - [VTN Architects](https://socialarchi.github.io/2020/vtn-architects.html)
 - [WTA Architecture and Design Studio](https://socialarchi.github.io/2020/wta-architecture-and-design-studio.html)
 - [DnA Design and Architecture](https://socialarchi.github.io/2020/dna-design-and-architecture.html)
+- [MASS Design Group](https://socialarchi.github.io/2020/mass-design-group.html)
