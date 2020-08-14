@@ -81,7 +81,7 @@ leaflet() %>%
 <!-- leafpop::popupTable(label) -->
 
 ## List of Case Studies
-- [Anna Heringer Architecture](https://socialarchi.github.io/2020/anna-heringer-architecture.html)
+- [Studio Anna Heringer](https://socialarchi.github.io/2020/anna-heringer-architecture.html)
 - [billionBricks](https://socialarchi.github.io/2020/billionbricks.html)
 - [CAUKIN Studio](https://socialarchi.github.io/2020/caukin-studio.html)
 - [IX Architects](https://socialarchi.github.io/2020/ix-architects.html)
@@ -92,9 +92,9 @@ leaflet() %>%
 - [One Bite Studio](https://socialarchi.github.io/2020/one-bite-studio.html)
 - [People's Architecture Office](https://socialarchi.github.io/2020/peoples-architecture-office.html)
 - [studio-L](https://socialarchi.github.io/2020/studio-l.html)
-- [SHAU](https://socialarchi.github.io/2020/shau.html)
+- [SHAU Rotterdam-Bandung](https://socialarchi.github.io/2020/shau.html)
 - [Kjellandar Sjoberg](https://socialarchi.github.io/2020/kjellandar-sjoberg.html)
 - [VTN Architects](https://socialarchi.github.io/2020/vtn-architects.html)
 - [WTA Architecture and Design Studio](https://socialarchi.github.io/2020/wta-architecture-and-design-studio.html)
-- [DnA Design and Architecture](https://socialarchi.github.io/2020/dna-design-and-architecture.html)
+- [DnA_Design and Architecture](https://socialarchi.github.io/2020/dna-design-and-architecture.html)
 - [MASS Design Group](https://socialarchi.github.io/2020/mass-design-group.html)

@@ -1,7 +1,7 @@
 ---
 author: Social Architecture
 categories:
-- Projects
+- CaseStudies
 date: "2019-10-01T12:14:34+06:00"
 description: This is meta description.
 draft: false

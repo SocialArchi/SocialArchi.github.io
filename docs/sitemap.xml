@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/categories/casestudies/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/community-engagement/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -48,18 +53,8 @@
   </url>
   
   <url>
-    <loc>/categories/projects/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/post-3/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,6 +69,11 @@
   
   <url>
     <loc>/tags/local-materials/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/post-3/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
