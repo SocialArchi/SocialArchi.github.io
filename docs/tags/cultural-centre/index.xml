@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultural Centre on Social Architecture</title>
+    <link>/tags/cultural-centre/</link>
+    <description>Recent content in Cultural Centre on Social Architecture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cultural-centre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kjellander Sjöberg</title>
+      <link>/post/post-7/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post-7/</guid>
+      <description>Project Name: Gustav III Square Location: Östersund, Sweden Date Designed: 2017
+Date Completed: In Progress Size: 26,500 sqm
+Client: Östersund Municipality, Diös Programme: Culture ABOUT
+Kjellander Sjöberg is based in Stockholm, Sweden and provides architectural and urban design services in the Nordic countries. Established in 1998, it is currently a multi-nationality medium-sized office led by partners Ola Kjellander, Stefan Sjöberg, Mi Inkinen and Lena Viterstedt. Kjellander Sjöberg believes that the built environment influences social progress, quality of life and cultural richness.</description>
+    </item>
+    
+  </channel>
+</rss>
