@@ -50,7 +50,7 @@ weight = 2
 
 [[menu.main]]
 name = "Case Studies"
-URL = "tags/community-engagement/"
+URL = "categories/casestudies/"
 weight = 4
 
 [[menu.main]]
