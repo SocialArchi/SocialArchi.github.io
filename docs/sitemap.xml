@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>/post/post-1/</loc>
+    <loc>/post/about/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/post/post-2/</loc>
+    <loc>/post/map/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/post/post-7/</loc>
+    <loc>/post/kjellander_sjo%CC%88berg/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/post/post-3/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/studio_anna_heringer/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -93,12 +88,12 @@
   </url>
   
   <url>
-    <loc>/post/post-4/</loc>
+    <loc>/post/billion_bricks/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/post-5/</loc>
+    <loc>/post/caukin_studio/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,7 +128,7 @@
   </url>
   
   <url>
-    <loc>/post/post-6/</loc>
+    <loc>/post/shau_rotterdam_bandung/</loc>
     <lastmod>2019-10-01T12:14:34+06:00</lastmod>
   </url>
   
@@ -148,7 +143,7 @@
   </url>
   
   <url>
-    <loc>/post/post-8/</loc>
+    <loc>/post/mass_design_group/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +158,22 @@
   </url>
   
   <url>
+    <loc>/post/atelier-3/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/book/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/green-tree/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ix_architects/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -190,41 +195,6 @@
   <url>
     <loc>/tags/tree/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/post-10/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/post-9/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
