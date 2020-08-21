@@ -138,6 +138,33 @@
     </item>
     
     <item>
+      <title>inspire</title>
+      <link>/tags/inspire/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inspire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>/tags/nature/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>/tags/new/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>book</title>
       <link>/tags/book/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
@@ -147,38 +174,11 @@
     </item>
     
     <item>
-      <title>inspire</title>
-      <link>/tags/inspire/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/inspire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>memo</title>
       <link>/tags/memo/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
       <guid>/tags/memo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature</title>
-      <link>/tags/nature/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>new</title>
-      <link>/tags/new/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/new/</guid>
       <description></description>
     </item>
     

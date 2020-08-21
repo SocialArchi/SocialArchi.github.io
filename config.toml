@@ -50,7 +50,7 @@ weight = 2
 
 [[menu.main]]
 name = "Case Studies"
-URL = "categories/casestudies/"
+URL = "categories/casestudies"
 weight = 4
 
 [[menu.main]]
@@ -76,9 +76,9 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By Social Architecture"
+copyright = "Website Design By Yohei Kato, Hendriko Teguh, & Mavis Lee Xing Yun. <br>Artwork by Shawn Low & Wen Qi Ng. <br> Original Theme Developed by [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)"
 
-#[Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)
+# Original Them developed by [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)
 
 # Preloader
 [params.preloader]

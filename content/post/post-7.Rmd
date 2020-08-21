@@ -1,5 +1,5 @@
 ---
-author: Shawn & Fadhilah
+author: Shawn Low & Fadhilah Nordin
 categories:
 - CaseStudies
 date: "2020-09-12"
@@ -21,8 +21,17 @@ __Client:__ Östersund Municipality, Diös <br>
 __Programme:__ Culture
 <br><br>
 
-<span style="color:#E7451F">__ABOUT__</span><br>
-Kjellander Sjöberg is based in Stockholm, Sweden and provides architectural and urban design services in the Nordic countries. Established in 1998, it is currently a multi-nationality medium-sized office led by partners Ola Kjellander, Stefan Sjöberg, Mi Inkinen and Lena Viterstedt. Kjellander Sjöberg believes that the built environment influences social progress, quality of life and cultural richness. Innovation and sustainability are 2 key drivers in their design. Creating work that is innovative and unexpected while maintaining synergy between resources, high quality built environ- ments and rich social experiences is a part of their philosophy.<br><br>
+<span style="color:#E7451F">__ABOUT Kjellander Sjöberg__</span><br>
+Kjellander Sjöberg is based in Stockholm, Sweden and provides architectural and urban design services in the Nordic countries. Established in 1998, it is currently a multi-nationality medium-sized office led by partners Ola Kjellander, Stefan Sjöberg, Mi Inkinen and Lena Viterstedt. Kjellander Sjöberg believes that the built environment influences social progress, quality of life and cultural richness. Innovation and sustainability are 2 key drivers in their design. Creating work that is innovative and unexpected while maintaining synergy between resources, high quality built environments and rich social experiences is a part of their philosophy.<br><br>
+
+<span style="color:#E7451F">__ABOUT Cultural Block Östersund__</span><br>
+Gustav III Square is historically known to be a public square and was used as a marketplace, entertainment, demonstrations, and meetings. As the city developed, Gustav III Square transformed into a bus terminal. Östersund municipality, together with a real estate company Diös, initiated research to transform the square into a public gathering point for the city with multiple programs. This is done through a consultation process that is reviewed by multiple stakeholders as well as the public.<br><br>
+
+![Cultural Block Östersund](images/KS_2.jpg)
+
+<!-- ![Cultural Block Östersund](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+
+
 
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __0.1 ADVICE TO YOUNG ARCHITECTS?__<br>
