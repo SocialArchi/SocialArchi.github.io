@@ -27,7 +27,7 @@ Kjellander Sjöberg is based in Stockholm, Sweden and provides architectural and
 <span style="color:#E7451F">__ABOUT Cultural Block Östersund__</span><br>
 Gustav III Square is historically known to be a public square and was used as a marketplace, entertainment, demonstrations, and meetings. As the city developed, Gustav III Square transformed into a bus terminal. Östersund municipality, together with a real estate company Diös, initiated research to transform the square into a public gathering point for the city with multiple programs. This is done through a consultation process that is reviewed by multiple stakeholders as well as the public.<br><br>
 
-![Cultural Block Östersund](images/KS_2.jpg)
+![Cultural Block Östersund](https://socialarchi.github.io/images/post/KS_2.jpg)
 
 <!-- ![Cultural Block Östersund](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 
