@@ -1,18 +1,61 @@
 ---
-author: Social Architecture
-categories:
-- CaseStudies
-date: "2020-08-01"
-description: This is meta description.
+author: Matthew Tan & Eunice Lim #put the names of students
+categories: #"casestudies" is the default 
+- casestudies
+date: "2020-09-12" #use the same date for all
+description: Studio Anna Heringer is a firm that is rooted in the usage of sustainable materials and the employment of participatory design, and is headed by Anna Heringer herself. #brief description about the firm
 draft: false
-image: images/post/post-3_1.jpg
-tags:
-- Constuction Education
-- Community Engagement
-- Local Materials
-- Sustainability
-- Collective Ownership
-title: 'Studio Anna Heringer'
+image: images/post/01_AnnaHeringer_1.jpg  #place a corresponding image in the "images" => "post"
+tags: #use "keywords" in the excel
+- Citizen Participation
+- Sustainable Innovation
+- Rural Revitalisation
+title: Studio Anna Heringer #put the name of the firm
 ---
 
-__METI Handmade School__ is commissioned by a non-government organization called the Modern Education and Training Institute and is a learning institution built for training children to be ready for creative trade-based industries. In Bangladesh, where the project is based, the local knowledge on building materials such as Earth and Bamboo was limited and had not been successfully implemented as a material in the local projects. Anna made use of this opportunity to introduce experts in the architecture industry to educate the local tradesmen and community on and improved traditional building methods using these local materials.
+__Project Name:__ METI Handmade School <br>
+__Location:__ Rudrapur, Dinajpur district, Bangladesh <br>
+__Date Designed:__ 2005<br>
+__Date Completed:__ 2006<br>
+__Size:__ 325 sqm<br>
+__Client:__ Modern Education and Training Institute<br>
+__Programme:__ Education
+<br><br>
+
+<span style="color:#E7451F">__ABOUT Studio Anna Heringer__</span><br>
+Studio Anna Heringer is headed by Anna Heringer herself, who is a German Architect who strongly advocates for the use of bamboo and mud as ‘sustainable’ materials for construction. Although these materials are considered ‘low-class’ in the building industry, Anna believes that they are not inferior in their properties and pioneered the utilisation of these resources in community-driven architectural projects in Bangladesh. Anna defines that ‘sustainability’ is about “the quality of life and the celebration of nature’s vast resources”, and always pushes for community involvement in her projects to bring people together and generate collective ownership while honouring the abundant natural resources that the Earth has provided for us. <br><br>
+
+<span style="color:#E7451F">__ABOUT METI Handmade School__</span><br>
+METI Handmade School is commissioned by a non-government organization called the Modern Education and Training Institute and is a learning institution built for training children to be ready for creative trade-based industries. In Bangladesh, where the project is based, the local knowledge on building materials such as Earth and Bamboo was limited and had not been successfully implemented as a material in the local projects. Anna made use of this opportunity to introduce experts in the architecture industry to educate the local tradesmen and community on and improved traditional building methods using these local materials.<br><br>
+
+
+<!-- Photo of the project -->
+
+<!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
+example below-->
+
+![Cultural Block Östersund](https://socialarchi.github.io/images/post/01_AnnaHeringer_2.jpg) 
+
+<!-- 
+<span style="color:#E7451F">__Insights and Takeaways__</span><br>
+__1. ADVICE TO YOUNG ARCHITECTS?__<br>
+-<br><br>
+__2. HOW DOES COVID AFFECT YOUR WORK?__<br>
+-<br><br>
+__3. BOOKS TO RECOMMEND?__<br>
+-
+-->
+
+<!-- 
+<span style="color:#E7451F">__Interview Transcript__</span><br>
+__Q1: Kjellander Sjoberg (Schellander Sjoberg) has a vision to improve living conditions and environments when designing and contributing to neighborhoods and meeting places. How are the local community and local stakeholders involved in the design process?__<br>
+-<br><br>	
+__Q2: Referencing the recent public hearing for the Gustav III Square, held over two months, how active was the community in actually providing feedback and how useful were they?__<br>
+-<br><br>
+__Q3: For projects like this in Sweden where you are working with municipal agencies, how much influence does the developer (e.g. Diös pronounced Dee ers with silent r) have over the decisions of the design process as well as incorporation of feedback?__<br>
+-<br><br>
+__Q4: In Singapore, the recent coronavirus situation has shed light on a demographic largely neglected in the process of design for community spaces, which are the migrant workers. Drawing parallels to Sweden, the country is known to have taken in a large amount of refugees over the years; one of the highest intakes in the world over the past decade. Though minor compared to the population, this steadily growing new demographic presents a new question about the integration of refugees into the discussion and design process of community spaces. What are your takes about how this process would work in Sweden? Perhaps from there we could extract relevant points for application in Singapore.__<br>
+-<br><br>
+__Q5: As an architect, you always have an aim at the start of the project on how your design contributes to the context, the city, and the community that uses it. There is a rigorous design process to achieve this aim, from understanding the programme and users to developing a design concept and assessment of details. For both completed and ongoing projects, how do you assess the level of success of achieving these goals? What makes a project more (or less) successful to you?__<br>
+-<br><br>
+-->

@@ -1,5 +1,5 @@
 ---
-author: Social Architecture
+author: Yohei Kato
 categories:
 - map
 date: "2020-09-20"
@@ -45,7 +45,7 @@ case_geo <- read_csv(("Data/case_studies_sf_10Aug2020.csv")) %>% select(-ID, -Li
     "https://socialarchi.github.io/2020/saa-architects.html",
     "http://www.rufwork.org/index.php?/project/angdong-health-centre-10/",
     "https://socialarchi.github.io/2020/ground-up-initiative.html",
-    "https://socialarchi.github.io/2020/anna-heringer-architecture.html",
+    "https://socialarchi.github.io/post/studio_anna_heringer/",
     "https://socialarchi.github.io/2020/vtn-architects.html"
   ))
 ```
@@ -81,20 +81,22 @@ leaflet() %>%
 <!-- leafpop::popupTable(label) -->
 
 ## List of Case Studies
-- [Studio Anna Heringer](https://socialarchi.github.io/2020/anna-heringer-architecture.html)
-- [billionBricks](https://socialarchi.github.io/2020/billionbricks.html)
-- [CAUKIN Studio](https://socialarchi.github.io/2020/caukin-studio.html)
-- [IX Architects](https://socialarchi.github.io/2020/ix-architects.html)
-- [Ground Up Initiative](https://socialarchi.github.io/2020/ground-up-initiative.html)
-- [Atelier-3](https://socialarchi.github.io/2020/atelier-3.html)
-- [Participate in Design (P!D)](https://socialarchi.github.io/2020/participate-in-design-pd.html)
-- [SAA Architects](https://socialarchi.github.io/2020/saa-architects.html)
-- [One Bite Studio](https://socialarchi.github.io/2020/one-bite-studio.html)
-- [People's Architecture Office](https://socialarchi.github.io/2020/peoples-architecture-office.html)
-- [studio-L](https://socialarchi.github.io/2020/studio-l.html)
-- [SHAU Rotterdam-Bandung](https://socialarchi.github.io/2020/shau.html)
-- [Kjellandar Sjoberg](https://socialarchi.github.io/2020/kjellandar-sjoberg.html)
-- [VTN Architects](https://socialarchi.github.io/2020/vtn-architects.html)
-- [WTA Architecture and Design Studio](https://socialarchi.github.io/2020/wta-architecture-and-design-studio.html)
+- [Studio Anna Heringer](https://socialarchi.github.io/post/studio_anna_heringer/)
 - [DnA_Design and Architecture](https://socialarchi.github.io/2020/dna-design-and-architecture.html)
+- [VTN Architects](https://socialarchi.github.io/2020/vtn-architects.html)
+- [BillionBricks](https://socialarchi.github.io/2020/billionbricks.html)
+- [Atelier-3](https://socialarchi.github.io/2020/atelier-3.html)
+- [CAUKIN Studio](https://socialarchi.github.io/2020/caukin-studio.html)
+- [SHAU Rotterdam-Bandung](https://socialarchi.github.io/2020/shau.html)
+- [IX Architects](https://socialarchi.github.io/2020/ix-architects.html)
+- [Kjellandar Sjoberg](https://socialarchi.github.io/2020/kjellandar-sjoberg.html)
 - [MASS Design Group](https://socialarchi.github.io/2020/mass-design-group.html)
+- [People's Architecture Office](https://socialarchi.github.io/2020/peoples-architecture-office.html)
+- [WTA Architecture and Design Studio](https://socialarchi.github.io/2020/wta-architecture-and-design-studio.html)
+- [SAA Architects](https://socialarchi.github.io/2020/saa-architects.html)
+- [Ground Up Initiative](https://socialarchi.github.io/2020/ground-up-initiative.html)
+- [One Bite Studio](https://socialarchi.github.io/2020/one-bite-studio.html)
+- [Participate in Design (P!D)](https://socialarchi.github.io/2020/participate-in-design-pd.html)
+- [studio-L](https://socialarchi.github.io/2020/studio-l.html)
+
+
