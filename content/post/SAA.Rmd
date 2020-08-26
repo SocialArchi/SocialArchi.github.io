@@ -2,7 +2,7 @@
 author: Kiang Ching & Naung Oo #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-18" #use the same date for all
 description: SAA is a leading full-service architecture practice headquartered in Singapore. With over 50 years of design and built expertise, they are committed to the pursuit of excellence in the design and delivery of people-oriented architecture that connects communities with their urban environments. #brief description about the firm
 draft: false
 image: images/post/13_SAA Architects_01.jpg  #place a corresponding image in the "images" => "post"

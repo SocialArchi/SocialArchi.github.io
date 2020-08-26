@@ -2,7 +2,7 @@
 author: Mengcheng & May #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-20" #use the same date for all
 description: Beijing-based People’s Architecture Office (PAO) / People’s Industrial Design Office (PIDO) was founded by He Zhe, James Shen and Zang Feng in 2010, and consists of a multi-disciplinary team of architects, engineers, product designers and urbanists. With the belief that design is for the masses the studio focuses on social impact through design. PAO is the first architecture practice in Asia certified as a B-Corporation and serves as a model for social entrepreneurship. #brief description about the firm
 draft: false
 image: images/post/11_People's Architecture Office_01.jpg  #place a corresponding image in the "images" => "post"

@@ -2,7 +2,7 @@
 author: Sandra Chan & Edison Ng #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-26"
 description: Atelier-3 & Design For People Co. has been a leading force in developing and promoting sustainable lightweight steel houses in rural & ethnic areas since 1999. The main goal of the practice is to improve the infrastructure and living environment of the rural area, leading to sustainable development as well as an ecological society.
 draft: false
 image: images/post/05_Atelier-3_1.jpg  #place a corresponding image in the "images" => "post"
@@ -38,7 +38,7 @@ Nepal Rebuilt House is a total 60sqm double storey house design by the team that
 <!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
 example below-->
 
-![Nepal Rebuilt House](https://socialarchi.github.io/images/post/05_Atelier-3_3.jpg) 
+![Nepal Rebuilt House](https://socialarchi.github.io/images/post/05_Atelier-3_2.jpg) 
 
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. MOST OF THE ARCHITECTURE PRACTICE NOWADAYS IS DONE VIA THE INTERNET DUE TO COVID. HOW CAN ARCHITECTS REMAIN CONNECTED TO THE PEOPLE THEY SERVED GIVEN THE TREND NOW? HOW COVID-19 PANDEMIC AFFECT YOUR WORK NOW AND IN FUTURE?__<br>
@@ -68,7 +68,8 @@ The configuration of the Thao family house is arranged according to the division
 
 What is the metaphor of architecture? It is actually a specific value behind the architecture given by the designer rather than naturally generated. A building has to include this value, even in its spirit, symbol, form, etc. It is created by the architect (Making), but in the end it may be hidden inside the architecture and may not be seen, because the process of generation (Becoming) is very complicated, and the generated outcome may not be the main part. Thus, the so-called communication is not the communication that most people imagine, and that communication is the most difficult.<br><br>
 
-__Q3: How did you overcome constraints or conflicts involving the locals in the building process? We know that conflicts always arise inevitably just like one happened in your rebuilt project after the 2008 Wenchuan earthquake (杨柳村). The "guerrilla building" method (游击造屋) was adopted too, unpredictably, the villagers ended up having conflicts due to differences in the use of materials and construction methods, resulting in the inability to collect all the material costs paid in advance by the team. How do you resolve the conflict at that point in time or what do you think could be done better to prevent this kind of event to happen? <br>
+__Q3: How did you overcome constraints or conflicts involving the locals in the building process?__<br> 
+We know that conflicts always arise inevitably just like one happened in your rebuilt project after the 2008 Wenchuan earthquake (杨柳村). The "guerrilla building" method (游击造屋) was adopted too, unpredictably, the villagers ended up having conflicts due to differences in the use of materials and construction methods, resulting in the inability to collect all the material costs paid in advance by the team. How do you resolve the conflict at that point in time or what do you think could be done better to prevent this kind of event to happen? <br>
 In fact, we have never had any way to reduce or avoid conflicts. As mentioned earlier, architectural behavior is extremely complicated. The situation in the 2008 Wenchuan earthquake in Yangliu Village is not uncommon even in the next few projects. Until now, our only practice is to collect payment before delivering.<br><br>
 
 __Q4:You described the city construction model as consumer behavior and the rural area's construction model as production. I wonder if the rural area's construction model can be applied in the cities. On what form do you think will it take if it is to implement this in city area and does it limit by the scale of the project?__<br>

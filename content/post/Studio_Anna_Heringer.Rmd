@@ -2,7 +2,7 @@
 author: Matthew Tan & Eunice Lim #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-30" #use the same date for all
 description: Studio Anna Heringer is a firm that is rooted in the usage of sustainable materials and the employment of participatory design, and is headed by Anna Heringer herself. #brief description about the firm
 draft: false
 image: images/post/01_AnnaHeringer_1.jpg  #place a corresponding image in the "images" => "post"

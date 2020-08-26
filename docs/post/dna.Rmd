@@ -2,7 +2,7 @@
 author: Han Jing & Li Jiayi #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-29" #use the same date for all
 description: DnA_Design and Architect is an interdisciplinary practice addressing contemporary living environment, both physical and social, from scales small to large. #brief description about the firm
 draft: false
 image: images/post/02_DnA_Design and Architecture_1.jpg  #place a corresponding image in the "images" => "post"
@@ -10,8 +10,7 @@ tags: #use "keywords" in the excel
 - Citizen Participation
 - Rural Revitalisation
 - Cultural Preservation
-title: DnA_Design and Architecture 
-
+title: DnA_Design and Architecture #put the name of the firm
 ---
 
 __Project Name:__ Brown Sugar Factory <br>
@@ -60,7 +59,8 @@ In 2013, a rural tourism development plan was initiated by Songyang County gover
 __Q2: The ‘architectural acupuncture’ concept has saved China’ s village. Architects are like a doctor here. How do you determine the illness of the village? When you are giving treatments, how do you prevent rural architecture from being urbanized?__<br>
 So we proposed the “Architectural Acupuncture” as a systematic and sustainable rural strategy in Songyang County to regain its “rural self-confidence”. With a minimal intervention approach, multi-functional public programs are introduced to different villages and rural regions tailoring to the complexity of respective cultural heritage and context. Applied with vernacular material and construction technique, architectural acupuncture integrates nature back to the villages that restores their rural identity, as well as stimulates the local economic development. Like acupuncture in Chinese medicine, releases the trapped energy at various meridian points on the body to restore the overall health of the person. Likewise, Architectural Acupuncture is an approach aimed at motivating and inspiring the villages and communities to initiate their own self-regeneration for further development. Moreover, the concept of Architectural Acupuncture aims to activate the dormant resources and generate circulation among the villages in Songyang in establishing a network with the nearby regions and beyond.<br><br>
 
-__Q3: From a practical perspective, there are many constraints when developing a project in the countryside. For example, low Despite the scenic landscape, there were also critical issues. Like many rural regions in China, here most rural communities in Songyang were in economic decline, and losing faith in the village’s future. Young people move to the cities for employment, and the villages become “hollow” with a low population of elders. <br>
+__Q3: From a practical perspective, there are many constraints when developing a project in the countryside. For example, low construction technology and low budget. How do you overcome these difficulties during the design process?__<br>
+From a practical perspective, there are many constraints when developing a project in the countryside. For example, low Despite the scenic landscape, there were also critical issues. Like many rural regions in China, here most rural communities in Songyang were in economic decline, and losing faith in the village’s future. Young people move to the cities for employment, and the villages become “hollow” with a low population of elders. <br>
 During the first year, we were constantly consulted for village projects. So the first year we took over a dozen pro-bono small scale projects in the rural villages in Songyang, including Pingtian Village Center, bamboo theater, teahouse in damushan tea plantation, etc. <br>
 All these projects have become learning processes for us to understand local construction materials and techniques, as well as an exchange of ideas that renewed the local’s conceptions on construction.<br><br>
 

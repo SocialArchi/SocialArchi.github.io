@@ -2,7 +2,7 @@
 author: Natalie & Maggie #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-09-12" #use the same date for all
+date: "2020-08-27" #use the same date for all
 description: billionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.
 draft: false
 image: images/post/04_billionBricks_1.PNG  #place a corresponding image in the "images" => "post"
@@ -22,8 +22,8 @@ __Client:__ - <br>
 __Programme:__ Residential
 <br><br>
 
-<span style="color:#E7451F">__ABOUT billionBricks__</span><br>
-Housing is a basic necessity and a human right, the ﬁrst step of empowerment towards emerging out of poverty. Co-founders of billionBricks Prasoon Kumar and Anurag Srivastava envisions “a world where no one is homeless, and where everyone has access to opportunities for economic and social upliftment” (Rebel, 10 Restorative Innovation Initiatives from Singapore You Should Know 2018). billionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.<br><br>
+<span style="color:#E7451F">__ABOUT BillionBricks__</span><br>
+Housing is a basic necessity and a human right, the ﬁrst step of empowerment towards emerging out of poverty. Co-founders of BillionBricks Prasoon Kumar and Anurag Srivastava envisions “a world where no one is homeless, and where everyone has access to opportunities for economic and social upliftment” (Rebel, 10 Restorative Innovation Initiatives from Singapore You Should Know 2018). BillionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.<br><br>
 
 <span style="color:#E7451F">__ABOUT powerHYDE__</span><br>
 Conceived as the world’s first carbon positive residence for the homeless, each powerHYDE produces four times the amount of energy it needs for itself. additional energy is sold in order to power other communal facilities — generating additional income for the families who own them. <br><br>
