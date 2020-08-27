@@ -1,0 +1,81 @@
+---
+author: Han Jing & Li Jiayi #put the names of students
+categories: #"casestudies" is the default 
+- casestudies
+date: "2020-08-29" #use the same date for all
+description: DnA_Design and Architect is an interdisciplinary practice addressing contemporary living environment, both physical and social, from scales small to large. #brief description about the firm
+draft: false
+image: images/post/02_DnA_Design and Architecture_1.jpg  #place a corresponding image in the "images" => "post"
+tags: #use "keywords" in the excel
+- Citizen Participation
+- Rural Revitalisation
+- Cultural Preservation
+title: DnA_Design and Architecture #put the name of the firm
+---
+
+__Project Name:__ Brown Sugar Factory <br>
+__Location:__ Xing Village, China <br>
+__Date Designed:__ 2015<br>
+__Date Completed:__ 2016<br>
+__Size:__ 1,230 sqm<br>
+__Client:__ Government of Zhangxi Village, Songyang County<br>
+__Programme:__ Culture
+<br><br>
+
+<span style="color:#E7451F">__ABOUT DnA_Design and Architecture__</span><br>
+DnA_Design and Architect is an interdisciplinary practice engaged in public buildings, architectural planning, landscape design, and cultural institutions. <br>
+
+The studio aims to address contemporary living environments in both physical and social at various scales. DnA_Design and Architecture has done many successful projects, including Brown Sugar Factory, Wang Jing Memorial Hall, Chinese Herbal Garden, and Toufu Factory.<br>
+
+DnA believes context program, and their potential relationship, will cultivate architecture into a multidimensional expression and generate new experiment and exploration for users. Their approach starts with research and discussion on context, program, and their interaction as the fundamental elements, or the “DNA” that defines design and architecture, to adapt, engage, and contribute to our society of multiplicity and complexity.<br>
+
+The studio was invited to attend architectural events such as  2008 UCCA-AAC Beijing Forum and the Aedes Architecture Forum. Brown Sugar factory was nominated for ArchDaily Building of the Year 2019 Industrial architecture. The founder, Xu Tiantian has received WA Chinese Architecture Awards for 2006 and 2008, 2008 Young Architects Award from the Architectural League of New York, Design Vanguard feature by Architectural Record, and 2019 Moira Gemmill Prize for Emerging Architecture.<br><br>
+
+<span style="color:#E7451F">__ABOUT Brown Sugar Factory__</span><br>
+The Brown Sugar Factory is one of the most successful rural revitalization project examples in China.  Covering an area of 1230 sqm, the factory is divided into three functional zones: main production zone, experiential zone, and working zone. Brown Sugar Factory has greatly improved the economy in Xing village and it promotes tourism in the village. As a community space, Brown Sugar Factory created a village community cohesion – a new ‘rural self-confidence’ among villagers.<br><br>
+
+
+<!-- Photo of the project -->
+
+<!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
+example below-->
+
+![DnA_Design and Architecture](https://socialarchi.github.io/images/post/02_DnA_Design and Architecture_2.jpg) 
+
+<span style="color:#E7451F">__Insights and Takeaways__</span><br>
+__1. IN 2013, YOU PROPOSED THE IDEA THAT ALL THE DESIGN BACKGROUND IS FOR FUTURE CONSIDERATION. DUE TO COVID-19, MANY INDUSTRIES HAVE BEEN INFLUENCED IN A NEGATIVE WAY. HOW DO YOU THINK THE COVID-19 PANDEMIC WILL CHANGE YOUR WORK IN THE FUTURE?__<br>
+-<br><br>
+
+__2. WHAT BOOKS WOULD YOU RECOMMEND TO ARCHITECTURE STUDENTS?__<br>
+-<br><br>
+
+__3. WHAT CAREER ADVICE WOULD YOU GIVE TO ARCHITECTURE STUDENTS?__<br>
+-
+
+<span style="color:#E7451F">__Interview Transcript__</span><br>
+__Q1: In 2013, everyone is talking about the development of urbanization, rural seems to be a forgotten land in China. What makes you pay attention to rural development?__<br>
+In 2013, a rural tourism development plan was initiated by Songyang County government. We were first invited for a hotel project in tea plantation at the end of 2013. We were totally impressed by the landscape and cultural heritage in such an agricultural county. <br><br>	
+
+__Q2: The ‘architectural acupuncture’ concept has saved China’ s village. Architects are like a doctor here. How do you determine the illness of the village? When you are giving treatments, how do you prevent rural architecture from being urbanized?__<br>
+So we proposed the “Architectural Acupuncture” as a systematic and sustainable rural strategy in Songyang County to regain its “rural self-confidence”. With a minimal intervention approach, multi-functional public programs are introduced to different villages and rural regions tailoring to the complexity of respective cultural heritage and context. Applied with vernacular material and construction technique, architectural acupuncture integrates nature back to the villages that restores their rural identity, as well as stimulates the local economic development. Like acupuncture in Chinese medicine, releases the trapped energy at various meridian points on the body to restore the overall health of the person. Likewise, Architectural Acupuncture is an approach aimed at motivating and inspiring the villages and communities to initiate their own self-regeneration for further development. Moreover, the concept of Architectural Acupuncture aims to activate the dormant resources and generate circulation among the villages in Songyang in establishing a network with the nearby regions and beyond.<br><br>
+
+__Q3: From a practical perspective, there are many constraints when developing a project in the countryside. For example, low construction technology and low budget. How do you overcome these difficulties during the design process?__<br>
+From a practical perspective, there are many constraints when developing a project in the countryside. For example, low Despite the scenic landscape, there were also critical issues. Like many rural regions in China, here most rural communities in Songyang were in economic decline, and losing faith in the village’s future. Young people move to the cities for employment, and the villages become “hollow” with a low population of elders. <br>
+During the first year, we were constantly consulted for village projects. So the first year we took over a dozen pro-bono small scale projects in the rural villages in Songyang, including Pingtian Village Center, bamboo theater, teahouse in damushan tea plantation, etc. <br>
+All these projects have become learning processes for us to understand local construction materials and techniques, as well as an exchange of ideas that renewed the local’s conceptions on construction.<br><br>
+
+__Q4: Most of the rural buildings that you designed, like brown sugar factory, have a community space function. Public building in villages is a new territory, what prompted you to explore this new territory? Please tell us about the role and significance of public buildings in the countryside.__<br>
+
+-<br><br>
+
+__Q5: Brown Sugar Factory is a very successful project, do you think this can be replicated in similar contexts?__<br>
+
+-<br><br>
+
+__Q6: Architecture intelligence has become a popular trend recently, people tend to generate designs by using computers. However, many of your projects were designed based on local culture and use local materials. Could you please share with us why do you think this is important for a project?__<br>
+
+-<br><br>
+
+__Q7: The projects in Songyang attracted lots of attention in the media, young people are moving back to their villages and starting a new business. How do you evaluate the impact of architecture in the countryside and what do you think is crucial to keep those projects alive?__<br>
+
+-<br><br>
