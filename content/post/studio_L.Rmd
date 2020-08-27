@@ -32,7 +32,7 @@ Hajimari Art Center is a small museum, established by renovating a 130-years sak
 <!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
 example below-->
 
-![Hajimari Art Center](https://socialarchi.github.io/images/post/17_studio-L_01.jpg) 
+![Hajimari Art Center](https://socialarchi.github.io/images/post/17_studio-L_03.jpg) 
 
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. ADVICE TO YOUNG ARCHITECTS?__<br>

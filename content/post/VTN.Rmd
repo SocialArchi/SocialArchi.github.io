@@ -5,7 +5,7 @@ categories: #"casestudies" is the default
 date: "2020-08-13" #use the same date for all
 description: VTN Architects is a firm known for their sustainable design which is often a fusion between the traditional and modern architecture.
 draft: false
-image: images/post/03_VTN Architects_dummy.jpg  #place a corresponding image in the "images" => "post"
+image: images/post/header3.jpg  #place a corresponding image in the "images" => "post"
 tags: #use "keywords" in the excel
 - Sustainable Innovation
 - Urban Revitalisation
