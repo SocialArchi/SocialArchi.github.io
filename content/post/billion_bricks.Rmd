@@ -1,8 +1,8 @@
 ---
-author: Natalie & Maggie #put the names of students
+author: Natalie Tsang & Maggie #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-27" #use the same date for all
+date: "2020-07-04" #use the same date for all
 description: billionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.
 draft: false
 image: images/post/04_billionBricks_1.PNG  #place a corresponding image in the "images" => "post"
@@ -36,6 +36,7 @@ example below-->
 
 ![billionBricks](https://socialarchi.github.io/images/post/04_billionBricks_2.jpg) 
 
+<span style="color:#E7451F">Interview with KUMAR Prasoon of billionBricks</span><br>
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. HOW HAS THE PANDEMIC AFFECTED YOUR WORK?__<br>
 It has impacted us as we do not work in Singapore so we travel and work in communities that are generally quite far off or in rural areas where by connection may not be good. We are not used to working online so that is a little hard for us to communicate and to develop new projects in the Philippines. We delayed our plans by 3 months. However, we are now seeing that people there are adapting working to this remote working through zoom. We have been presenting to  government officials, we have been presenting to a lot of mayors and common officials online as well. It makes it difficult for us to visit sites and analyse them or site visits which we have not been able to do. But construction had not been affected. <br>
@@ -58,7 +59,7 @@ We have weatherHYDE tents and most of them are deployed in America. We are not b
 If you are talking about powerHYDE, we also do [deploy] them in developed countries as well. We do have them in the Philippines but we are also looking for opportunities in Austrailia and the United States. 
 <br><br>
 
-__Q3: billionBricks have just changed their model from being an NGO to a for-profit company. May I ask why this decision and what are your plans for the future base on this new model? <br>
+__Q3: BillionBricks have just changed their model from being an NGO to a for-profit company. May I ask why this decision and what are your plans for the future base on this new model?__<br>
 I came up with the idea of powerHYDE two years ago and the project was financially viable without grants and fundings from donations. I successfully found someone who would be our investor if we went for-profit as non-profit organisations cannot raise pension money. Essentially, being an NGO, investors cannot make money out of it. So if we can find someone who says that powerHYDE is a strong idea, that we can go and build it for the poor people, and I can make money in exchange for that. <br>
 
 For me it does not matter whether it is a for-profit or non-profit, as long as I am able to work in a sector which I like. That’s something I think other people are failing miserably.<br><br>

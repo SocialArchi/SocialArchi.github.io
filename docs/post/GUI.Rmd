@@ -1,8 +1,8 @@
 ---
-author: Adler #put the names of students
+author: Adler Teo & Irfan Hadi #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-17"
+date: "2019-09-14"
 description: Ground-Up Initiative (GUI) is a non-profit community, guided by the spirit of innovation, resilience and grounded leadership to demonstrate urban sustainability. #brief description about the firm
 draft: false
 image: images/post/14_Ground Up Initiative_01.jpg  #place a corresponding image in the "images" => "post"
@@ -35,16 +35,17 @@ example below-->
 
 ![Kampung Kampus](https://socialarchi.github.io/images/post/14_Ground Up Initiative_02.jpg) 
 
+<!--
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. ADVICE TO YOUNG ARCHITECTS?__<br>
 - <br><br>
-
 __2. HOW DOES COVID AFFECT YOUR WORK?__<br>
 - <br><br>
-
 __3. BOOKS TO RECOMMEND?__<br>
 - <br><br>
+-->
 
+<span style="color:#E7451F">Interview with CAI Bingyu of Ground Up Initiative</span><br>
 <span style="color:#E7451F">__Interview Transcript__</span><br>
 __Q1: Ever since you joined GUI, how has it affected or improved your life?__<br>
 I appreciate how things come together a lot more. One thing is the government (support). <br>

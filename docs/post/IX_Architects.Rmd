@@ -1,8 +1,8 @@
 ---
-author: Nidhi #put the names of students
+author: Nidhi Hegde #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-23" #use the same date for all
+date: "2020-03-08" #use the same date for all
 description: IX Architects Pte Ltd (IXA) is a corporatized architectural practice registered with the Board of Architects, Singapore.  IX Architects Pte Ltd excels on providing professional architectural services with personalized, quality touches.  They strive to design and deliver high standard and creative works that are responsive to client’s needs and budget. #brief description about the firm
 draft: false
 image: images/post/08_IX Architects_01.jpg  #place a corresponding image in the "images" => "post"
@@ -34,15 +34,16 @@ example below-->
 
 ![More than just a Library](https://socialarchi.github.io/images/post/08_IX Architects_02.jpg) 
 
+<span style="color:#E7451F">Interview with CHU Yang Keng of IX Architects</span><br>
+<!--
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. ADVICE TO YOUNG ARCHITECTS?__<br>
 - <br><br>
-
 __2. HOW DOES COVID AFFECT YOUR WORK?__<br>
 - <br><br>
-
 __3. BOOKS TO RECOMMEND?__<br>
 - <br><br>
+-->
 
 <span style="color:#E7451F">__Interview Transcript__</span><br>
 __Q1: What sparked your passion for social issues and using architecture as a medium? Specific project (More Than Just a Library).__<br>

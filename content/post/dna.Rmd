@@ -2,7 +2,7 @@
 author: Han Jing & Li Jiayi #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-29" #use the same date for all
+date: "2020-08-03" #use the same date for all
 description: DnA_Design and Architect is an interdisciplinary practice addressing contemporary living environment, both physical and social, from scales small to large. #brief description about the firm
 draft: false
 image: images/post/02_DnA_Design and Architecture_1.jpg  #place a corresponding image in the "images" => "post"
@@ -42,15 +42,16 @@ example below-->
 
 ![DnA_Design and Architecture](https://socialarchi.github.io/images/post/02_DnA_Design and Architecture_2.jpg) 
 
+<span style="color:#E7451F">Interview with XU Tiantian of DnA_Design and Architecture</span><br>
+<!--
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. IN 2013, YOU PROPOSED THE IDEA THAT ALL THE DESIGN BACKGROUND IS FOR FUTURE CONSIDERATION. DUE TO COVID-19, MANY INDUSTRIES HAVE BEEN INFLUENCED IN A NEGATIVE WAY. HOW DO YOU THINK THE COVID-19 PANDEMIC WILL CHANGE YOUR WORK IN THE FUTURE?__<br>
 -<br><br>
-
 __2. WHAT BOOKS WOULD YOU RECOMMEND TO ARCHITECTURE STUDENTS?__<br>
 -<br><br>
-
 __3. WHAT CAREER ADVICE WOULD YOU GIVE TO ARCHITECTURE STUDENTS?__<br>
 -
+-->
 
 <span style="color:#E7451F">__Interview Transcript__</span><br>
 __Q1: In 2013, everyone is talking about the development of urbanization, rural seems to be a forgotten land in China. What makes you pay attention to rural development?__<br>
@@ -64,18 +65,20 @@ From a practical perspective, there are many constraints when developing a proje
 During the first year, we were constantly consulted for village projects. So the first year we took over a dozen pro-bono small scale projects in the rural villages in Songyang, including Pingtian Village Center, bamboo theater, teahouse in damushan tea plantation, etc. <br>
 All these projects have become learning processes for us to understand local construction materials and techniques, as well as an exchange of ideas that renewed the local’s conceptions on construction.<br><br>
 
-__Q4: Most of the rural buildings that you designed, like brown sugar factory, have a community space function. Public building in villages is a new territory, what prompted you to explore this new territory? Please tell us about the role and significance of public buildings in the countryside.__<br>
 
--<br><br>
+<!-- __Q4: Most of the rural buildings that you designed, like brown sugar factory, have a community space function. Public building in villages is a new territory, what prompted you to explore this new territory? Please tell us about the role and significance of public buildings in the countryside.__<br> -->
 
-__Q5: Brown Sugar Factory is a very successful project, do you think this can be replicated in similar contexts?__<br>
 
--<br><br>
+<!-- -<br><br> -->
 
-__Q6: Architecture intelligence has become a popular trend recently, people tend to generate designs by using computers. However, many of your projects were designed based on local culture and use local materials. Could you please share with us why do you think this is important for a project?__<br>
+<!-- __Q5: Brown Sugar Factory is a very successful project, do you think this can be replicated in similar contexts?__<br> -->
 
--<br><br>
+<!-- -<br><br> -->
 
-__Q7: The projects in Songyang attracted lots of attention in the media, young people are moving back to their villages and starting a new business. How do you evaluate the impact of architecture in the countryside and what do you think is crucial to keep those projects alive?__<br>
+<!-- __Q6: Architecture intelligence has become a popular trend recently, people tend to generate designs by using computers. However, many of your projects were designed based on local culture and use local materials. Could you please share with us why do you think this is important for a project?__<br> -->
 
--<br><br>
+<!-- -<br><br> -->
+
+<!-- __Q7: The projects in Songyang attracted lots of attention in the media, young people are moving back to their villages and starting a new business. How do you evaluate the impact of architecture in the countryside and what do you think is crucial to keep those projects alive?__<br> -->
+
+<!-- -<br><br> -->

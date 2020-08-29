@@ -2,7 +2,7 @@
 author: Yohei Kato
 categories:
 - map
-date: "2020-09-20"
+date: "2020-09-02"
 description: This is the map of social architecture projects across the world.
 draft: false
 image: images/post/post1_2.jpg
@@ -45,13 +45,22 @@ case_geo <- read_csv(("Data/case_studies_sf_25Aug2020.csv")) %>% select(-ID, -Li
     "https://socialarchi.github.io/post/saa/",
     "http://www.rufwork.org/index.php?/project/angdong-health-centre-10/",
     "https://socialarchi.github.io/post/gui",
-    "https://socialarchi.github.io/post/studio_anna_heringer/",
-    "https://socialarchi.github.io/post/vtn/",
+    "https://www.archdaily.com/51664/handmade-school-anna-heringer-eike-roswag",
+    "https://www.archdaily.com/778269/diamond-island-community-center-vo-trong-nghia-architects",
     "https://www.archdaily.com/10775/quinta-monroy-elemental",
     "https://socialarchi.github.io/post/billion_bricks/",
     "https://socialarchi.github.io/post/ix_architects/"
   ))
 ```
+
+
+<!-- a 
+VTN: https://socialarchi.github.io/post/vtn/
+https://www.archdaily.com/778269/diamond-island-community-center-vo-trong-nghia-architects
+ANNA: https://socialarchi.github.io/post/studio_anna_heringer/
+
+-->
+
 
 ```{r include=FALSE}
 label <- case_geo %>%  
@@ -84,22 +93,22 @@ leaflet() %>%
 <!-- leafpop::popupTable(label) -->
 
 ## List of Case Studies
-- [Studio Anna Heringer](https://socialarchi.github.io/post/studio_anna_heringer/)
-- [DnA_Design and Architecture](https://socialarchi.github.io/post/dna/)
-- [VTN Architects](https://socialarchi.github.io/post/vtn/)
-- [BillionBricks](https://socialarchi.github.io/post/billion_bricks/)
-- [Atelier-3](https://socialarchi.github.io/post/atelier-3/)
-- [CAUKIN Studio](https://socialarchi.github.io/post/caukin_studio/)
-- [SHAU Rotterdam-Bandung](https://socialarchi.github.io/post/shau/)
-- [IX Architects](https://socialarchi.github.io/post/ix_architects/)
-- [Kjellandar Sjoberg](https://socialarchi.github.io/post/kjellander_sjoberg/)
-- [MASS Design Group](https://socialarchi.github.io/post/mass_design_group/)
-- [People's Architecture Office](https://socialarchi.github.io/post/pao/)
-- [WTA Architecture and Design Studio](https://socialarchi.github.io/post/wta/)
-- [SAA Architects](https://socialarchi.github.io/post/saa/)
-- [Ground Up Initiative](https://socialarchi.github.io/post/gui)
-- [One Bite Studio](https://socialarchi.github.io/post/one_bite_studio/)
-- [Participate in Design (P!D)](https://socialarchi.github.io/post/pid/)
-- [studio-L](https://socialarchi.github.io/post/studio_l/)
+<!-- - [Studio Anna Heringer](https://socialarchi.github.io/post/studio_anna_heringer/){target="_blank"} -->
+- [DnA_Design and Architecture](https://socialarchi.github.io/post/dna/){target="_blank"}
+<!-- - [VTN Architects](https://socialarchi.github.io/post/vtn/){target="_blank"} -->
+- [BillionBricks](https://socialarchi.github.io/post/billion_bricks/){target="_blank"}
+- [Atelier-3](https://socialarchi.github.io/post/atelier-3/){target="_blank"}
+- [CAUKIN Studio](https://socialarchi.github.io/post/caukin_studio/){target="_blank"}
+- [SHAU Rotterdam-Bandung](https://socialarchi.github.io/post/shau/){target="_blank"}
+- [IX Architects](https://socialarchi.github.io/post/ix_architects/){target="_blank"}
+- [Kjellandar Sjoberg](https://socialarchi.github.io/post/kjellander_sjoberg/){target="_blank"}
+- [MASS Design Group](https://socialarchi.github.io/post/mass_design_group/){target="_blank"}
+- [People's Architecture Office](https://socialarchi.github.io/post/pao/){target="_blank"}
+- [WTA Architecture and Design Studio](https://socialarchi.github.io/post/wta/){target="_blank"}
+- [SAA Architects](https://socialarchi.github.io/post/saa/){target="_blank"}
+- [Ground Up Initiative](https://socialarchi.github.io/post/gui){target="_blank"}
+- [One Bite Studio](https://socialarchi.github.io/post/one_bite_studio/){target="_blank"}
+- [Participate in Design (P!D)](https://socialarchi.github.io/post/pid/){target="_blank"}
+- [studio-L](https://socialarchi.github.io/post/studio_l/){target="_blank"}
 
 

@@ -359,7 +359,7 @@ mark {
       text-transform: uppercase; }
       .post-date span:first-child {
         font-size: 180%;
-        margin-bottom: 5px; }
+        margin-top: 13px; }
   .post-title {
     font-size: 4rem;
     color: #fff; }
@@ -381,7 +381,7 @@ mark {
     .post-meta a {
       text-transform: uppercase; }
       .post-meta a:hover {
-        color: #222; }
+        color: #E7451F; }
   .post .post-meta i {
     color: #fff; }
   .post .post-meta a {
@@ -461,7 +461,7 @@ mark {
   color: #555;
   border-bottom: 1px dotted #eee; }
   .content a:hover {
-    color: #222; }
+    color: #E7451F; }
 
 .content ol,
 .content ul {

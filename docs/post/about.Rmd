@@ -2,21 +2,90 @@
 author: Keng Hua Chong
 categories:
 date: "2020-10-01"
-description: This is meta description.
+description: Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it.
 draft: false
 image: images/post/header3.jpg
 tags:
 title: Social Architecture 2020 — Theory and Practice
 ---
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
 
-__Social Architecture — Theory and Practice__ aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it. Students will be exposed to key concepts, methods and goals developed in social architecture, an umbrella term that includes community architecture and planning, community design, social design, democratic design, community development, etc. which share a common approach of environmental design that encourages social behaviors leading towards certain public benefits, such as livability, safety, and sustainability. 
+__Social Architecture — Theory and Practice__ aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it. Students are exposed to key concepts, methods and goals developed in social architecture, an umbrella term that includes community architecture and planning, community design, social design, democratic design, community development, etc. which share a common approach of environmental design that encourages social behaviors leading towards public interests and common good, such as liveability, safety, and sustainability.<br>
 
-Public spaces play an essential role in the modern society: as areas to foster social interactions, places for cultural practices, and spaces to interact with nature. The role of responsible architects, planners, and urban designers is to design such environments that benefit humanity and ecology. However, it is not easy to find work reflecting on this promise in mainstream architecture. To address this issue, ARCHIFEST 2020 aims to bring forth the spirit of “creative activism” within the professions. 
+Social architecture and public spaces play an essential role in the our society: as areas to foster social interactions, places for cultural practices, and spaces to interact with nature. The role of responsible architects, planners, and urban designers is to design such environments that benefit humanity and ecology. As the world is currently coping with the most serious health crisis of the century, such responsible design becomes all the more crucial now and in the future.<br>
 
-Resonating with the theme of __ARCHIFEST—“Architecture Saving Our World”__, students explored the potential roles of public spaces and other types of social architecture in addressing issues of climate change, public health, social equity and cultural continuity.
+While it is not easy to find works reflecting on this promise in mainstream architecture, there is no lack of ‘creative activism’ within the profession across the world: from disaster relief to vernacular revival and climate resilience, and from tactical urbanism to advocacy in community and social equality. In Singapore, architects, planners and designers have also been advocating for heritage, biodiversity, sustainability, food resilience, and participatory design. These social architects envisage new direction in architecture, take action to bring about change, and use design as a means to encourage others to join them.<br>
+
+Resonating with the theme of __SINGAPORE ARCHIFEST 2020—“Architecture Saving OUR World”__, students explored the potential roles of social architecture and public spaces in addressing issues of climate change, public health, social equity and cultural continuity. These case studies are documented in two formats: a publication and a website with interactive map. This project, we hope, is only the beginning in bringing together such social architecture movement, to bring forth the spirit of creative activism amidst the dynamically changing world, and to show how architecture can make a difference.<br><br>
+
+Keng Hua CHONG & Yohei KATO<br>
+September 2020<br><br>
+
+<span style="color:#E7451F">__Acknowledgement__</span><br>
+We would like to thank Singapore Institute of Architects and the Singapore Archifest 2020 Organising Team for the opportunity and assistance in connecting with the selected architecture firms and organisations while conducting this research. We would also like to express our deepest gratitude to all the architects and designers who have kindly agreed to be interviewed and consented the use of their photos and drawings in our publication and website.<br>
+
+- __Social Architecture website:__ [socialarchi.github.io](https://socialarchi.github.io){target="_blank"}
+- __Singapore Archifest website:__ [archifest.sg](https://www.archifest.sg){target="_blank"} <br>
+
+
+__Social Architecture – Theory & Practice 2020__<br>
+__Instructor:__ Associate Professor Keng Hua CHONG<br>
+__Teaching Assistant:__ Yohei KATO<br>
+__Publication Design:__ Shawn LOW & Wen Qi NG<br>
+__Website Design:__ Yohei KATO, Hendriko TEGUH & Mavis LEE<br><br>
+
+__Student Team:__<br>
+
+
+
+
+<div class="col2">
+Adler TEO<br>
+Arisa TERIYAPIROM<br>
+Cheska DACLAG<br>
+Edison<br>
+Eunice LIM<br>
+Fadhilah NORDIN<br>
+Gee Yang TAN<br>
+Han JING<br>
+Hendriko TEGUH<br>
+Jia Yun LOH<br>
+Jiayi LI<br>
+Kady HO<br>
+Kiang CHING<br>
+Lucas NGIAM<br>
+Mary AGNES<br>
+Matthew TAN<br>
+Mavis LEE<br>
+May THINZAR<br>
+Mengcheng WAN<br>
+Michelle CHEN<br>
+Naomi MARCELLE<br>
+Natalie TSANG<br>
+Naung Oo THET<br>
+Nidhi HEGDE<br>
+Qiaorou WANG <br>
+Rachel SONG Li Ying<br>
+Ryan TEO<br>
+Sandra CHAN<br>
+Shawn LOW<br>
+Wen Qi NG<br>
+Wesley KOH<br>
+</div>
 
 <br>
-__supported by__
-![](https://socialarchi.github.io/images/logos.png)
+
+<div class="col2">
+[![](https://socialarchi.github.io/images/ASD_logo.jpg)](https://asd.sutd.edu.sg/){target="_blank"}<br><br>
+[![](https://socialarchi.github.io/images/SIA_logo.png)](https://sia.org.sg/){target="_blank"}<br>
+</div>
+
+<!-- ![](https://socialarchi.github.io/images/logos.png) -->
 
 

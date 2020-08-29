@@ -6,7 +6,7 @@ googleAnalytics ="UA-176008810-1"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "5"
+paginate = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
@@ -77,7 +77,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Website Design By Yohei Kato, Hendriko Teguh, & Mavis Lee Xing Yun. <br>Artwork by Shawn Low & Wen Qi Ng. <br> Original Theme Developed by [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Website Design By Yohei KATO, Hendriko TEGUH, & Mavis LEE. <br>Artwork by Shawn LOW & Wen Qi NG. <br> Original Theme Developed by [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)"
 
 # Original Them developed by [Themefisher](https://themefisher.com/) & [Gethugothemes](https://gethugothemes.com/)
 

@@ -1,8 +1,8 @@
 ---
-author: Mavis #put the names of students
+author: Mavis Lee #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-21"
+date: "2020-01-10"
 description: MASS consists of a team of over 120+ architects, landscape architects, engineers, builders, furniture designers, writers, filmmakers, and researchers representing 20 countries across the globe. They believe in expanding access to design that is purposeful, healing, and hopeful. #brief description about the firm
 draft: false
 image: images/post/10_MASS Design Group_01.jpg  #place a corresponding image in the "images" => "post"
@@ -36,6 +36,7 @@ example below-->
 
 ![Renovation of Ruhehe Primary School](https://socialarchi.github.io/images/post/10_MASS Design Group_02.jpg) 
 
+<span style="color:#E7451F">Interview with DORAN Kelly of MASS Design Group</span><br>
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1. ADVICE TO YOUNG ARCHITECTS?__<br>
 Yes. We are at the pivotal point in human history. Buildings account for 40% of annual consumption of energy. 10% is from construction. If we need to get to 0 in 30 years, as students, we have to think about what we can do to tackle that problem. How can I half the impact of current construction? How can I half operational footprint of existing buildings? It is a life work than spans across 30 years.<br><br>

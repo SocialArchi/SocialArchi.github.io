@@ -17,36 +17,22 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/about/</guid>
-      <description>Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it. Students will be exposed to key concepts, methods and goals developed in social architecture, an umbrella term that includes community architecture and planning, community design, social design, democratic design, community development, etc. which share a common approach of environmental design that encourages social behaviors leading towards certain public benefits, such as livability, safety, and sustainability.</description>
+      <description>.col2 { columns: 2 200px; /* number of columns and width in pixels*/ -webkit-columns: 2 200px; /* chrome, safari */ -moz-columns: 2 200px; /* firefox */ }  Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it. Students are exposed to key concepts, methods and goals developed in social architecture, an umbrella term that includes community architecture and planning, community design, social design, democratic design, community development, etc.</description>
     </item>
     
     <item>
       <title>Interactive Map</title>
       <link>/post/map/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/map/</guid>
       <description>{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Stamen.Toner&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;detectRetina&#34;:false}]},{&#34;method&#34;:&#34;addCircleMarkers&#34;,&#34;args&#34;:[[37.5641134,-16.8006309,51.5611976,1.3167354,63.1757722,39.9386949,14.602861,27.9110176,-1.4918885,22.3193039,28.495075,53.3924013,-6.909758,41.9433816,1.3505428,28.312001,1.4142648,25.6346367,10.7872729,-20.229588,16.9913932,13.3632533],[140.1078445,179.3618146,-0.0928437,103.8388212,14.639316,116.417661,121.045855,84.8919664,29.5571677,114.1693611,119.401878,-2.9558926,107.591709,-87.6946043,103.7076413,109.738781,103.8279127,88.583867,106.7498105,-70.1359998,76.9909475,103.856403],12,null,null,{&#34;interactive&#34;:true,&#34;className&#34;:&#34;&#34;,&#34;stroke&#34;:true,&#34;color&#34;:&#34;#E7451F&#34;,&#34;weight&#34;:0,&#34;opacity&#34;:0.5,&#34;fill&#34;:true,&#34;fillColor&#34;:&#34;#E7451F&#34;,&#34;fillOpacity&#34;:0.5},null,null,[&#34;Project Name&amp;emsp;Hajimari Art Center&amp;emsp;Firm&amp;emsp;studio-L&amp;emsp;Keywords&amp;emsp;Citizen Participation, Empowerment, Art Brut, Social Welfare&amp;emsp;Country&amp;emsp;Japan&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Naidi Community Hall&amp;emsp;Firm&amp;emsp;CAUKIN Studio&amp;emsp;Keywords&amp;emsp;Democratic education, Quality Design, Accessibility for All, Community Focused, Sustainable Innovation&amp;emsp;Country&amp;emsp;Fiji&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Kings Crescent Estate&amp;emsp;Firm&amp;emsp;Muf Architecture + Art&amp;emsp;Keywords&amp;emsp;Citizen Participation, Empowerment&amp;emsp;Country&amp;emsp;United Kingdom&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Hack Our Play - St. James Church Kindergarten&amp;emsp;Firm&amp;emsp;Participate in Design (P!D)&amp;emsp;Keywords&amp;emsp;Citizen Participation&amp;emsp;Country&amp;emsp;Singapore&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Cultural Block Östersund&amp;emsp;Firm&amp;emsp;Kjellander Sjöberg&amp;emsp;Keywords&amp;emsp;Citizen Participation, Social Integration, Revitalisation&amp;emsp;Country&amp;emsp;Sweden&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Leping Social Entrepreneur Foundation Headquarter&amp;emsp;Firm&amp;emsp;People&#39;s Architecture Office&amp;emsp;Keywords&amp;emsp;People, Social wellbeing Collaboration, Integration&amp;emsp;Country&amp;emsp;China&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;</description>
     </item>
     
     <item>
-      <title>Studio Anna Heringer</title>
-      <link>/post/studio_anna_heringer/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/studio_anna_heringer/</guid>
-      <description>Project Name: METI Handmade School Location: Rudrapur, Dinajpur district, Bangladesh Date Designed: 2005
-Date Completed: 2006
-Size: 325 sqm
-Client: Modern Education and Training Institute
-Programme: Education ABOUT Studio Anna Heringer
-Studio Anna Heringer is headed by Anna Heringer herself, who is a German Architect who strongly advocates for the use of bamboo and mud as ‘sustainable’ materials for construction. Although these materials are considered ‘low-class’ in the building industry, Anna believes that they are not inferior in their properties and pioneered the utilisation of these resources in community-driven architectural projects in Bangladesh.</description>
-    </item>
-    
-    <item>
       <title>DnA_Design and Architecture</title>
       <link>/post/dna/</link>
-      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/dna/</guid>
       <description>Project Name: Brown Sugar Factory Location: Xing Village, China Date Designed: 2015
@@ -60,7 +46,7 @@ DnA_Design and Architect is an interdisciplinary practice engaged in public buil
     <item>
       <title>BillionBricks</title>
       <link>/post/billion_bricks/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/billion_bricks/</guid>
       <description>Project Name: powerHYDE Location: Konchur Karnataka, India Date Designed: 2019
@@ -73,7 +59,7 @@ Housing is a basic necessity and a human right, the ﬁrst step of empowerment t
     <item>
       <title>Atelier-3</title>
       <link>/post/atelier-3/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/atelier-3/</guid>
       <description>Project Name: Nepal Rebuilt House Location: Katunje, Dahding Besi, Nepal Date Designed: 2016
@@ -87,7 +73,7 @@ Atelier-3 &amp;amp; Design For People Co. has been a leading force in developin
     <item>
       <title>CAUKIN Studio</title>
       <link>/post/caukin_studio/</link>
-      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/caukin_studio/</guid>
       <description>Project Name: Naidi Community Hall Location: Vanua Levu, Fiji Date Designed: 2018
@@ -101,7 +87,7 @@ CAUKIN Studio approaches architecture as a tool of empowerment that every indivi
     <item>
       <title>SHAU Rotterdam-Bandung</title>
       <link>/post/shau/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/shau/</guid>
       <description>Project Name: Bima Microlibrary Location: Bandung, Indonesia Date Designed: 2015
@@ -115,7 +101,7 @@ SHAU (Rotterdam-Bandung) was established in 2009 by married partners, Florian He
     <item>
       <title>IX Architects</title>
       <link>/post/ix_architects/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/ix_architects/</guid>
       <description>Project Name: More than just a Library Location: Siem Reap, Cambodia Date Designed: 2017 Date Completed: 2018 Size: 26,500 sqm
@@ -126,7 +112,7 @@ IX Architects Pte Ltd (IXA) is a corporatized architectural practice registered 
     <item>
       <title>Kjellander Sjöberg</title>
       <link>/post/kjellander_sjoberg/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/kjellander_sjoberg/</guid>
       <description>Project Name: Cultural Block Östersund Location: Östersund, Sweden Date Designed: 2017
@@ -138,7 +124,7 @@ Kjellander Sjöberg is based in Stockholm, Sweden and provides architectural and
     <item>
       <title>MASS Design Group</title>
       <link>/post/mass_design_group/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/mass_design_group/</guid>
       <description>Project Name: Renovation of Ruhehe Primary School Location: Ruhengeri (or Musanze), Rwanda Date Designed: 2015
@@ -150,7 +136,7 @@ MASS consists of a team of over 120+ architects, landscape architects, engineers
     <item>
       <title>People&#39;s Architecture Office</title>
       <link>/post/pao/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/pao/</guid>
       <description>Project Name: Leping Social Entrepreneur Foundation Headquarter
@@ -164,7 +150,7 @@ Beijing-based People’s Architecture Office (PAO) / People’s Industrial Desig
     <item>
       <title>WTA Architecture and Design Studio</title>
       <link>/post/wta/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/wta/</guid>
       <description>Project Name: Book Stop Project Location: Manila, Philippines Date Designed: 2016
@@ -178,7 +164,7 @@ WTA Architecture and Design Studio is one of the Top 10 Architectural Firms in t
     <item>
       <title>SAA Architects</title>
       <link>/post/saa/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/saa/</guid>
       <description>Project Name: St Josephs’ Nursing Home Location: Singapore, Singapore Date Designed: - Date Completed: 2017 Size: 22,022 sqm Client: Catholic Welfare Services Singapore Programme: Healthcare ABOUT SAA Architects
@@ -188,7 +174,7 @@ SAA is a leading full-service architecture practice headquartered in Singapore. 
     <item>
       <title>Ground Up Initiative</title>
       <link>/post/gui/</link>
-      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/gui/</guid>
       <description>Project Name: Kampung Kampus Location: Singapore, Singapore Date Designed: 2009 Date Completed: In Progress Size: 26,000 sqm
@@ -200,7 +186,7 @@ Ground-Up Initiative (GUI) is a non-profit community, guided by the spirit of in
     <item>
       <title>One Bite Design Studio</title>
       <link>/post/one_bite_studio/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/one_bite_studio/</guid>
       <description>Project Name: Project House Location: Sham Shui Po/Wan Chai/Aberdeen, Hong Kong Date Designed: 2017
@@ -212,7 +198,7 @@ One Bite is a creative team of strategists, architects, designers, community out
     <item>
       <title>Participate in Design (P!D)</title>
       <link>/post/pid/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/pid/</guid>
       <description>Project Name: Hack Our Play - St. James Church Kindergarten Location: Singapore, Singapore Date Designed: 2017 Date Completed: 2017 Size: 128 sqm
@@ -223,25 +209,11 @@ Participate in Design (P!D) is a non-profit design, planning and educational org
     <item>
       <title>studio-L</title>
       <link>/post/studio_l/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/studio_l/</guid>
       <description>Project Name: Hajimari Art Center Location: Inawashiro, Japan Date Designed: 2013 Date Completed: 2014 Size: 1,217.14 sqm (Site area), 235.66 sqm (Building area), 284.01 sqm (Total floor area) Client: Asaka Hospital Group Programme: Culture ABOUT studio-L
 Studio L is a Japanese firm that focues on community design. As community designers, the firm focuses on empowering the local people to participate in problem solving in their neighbourhoods. A typical workflow of a project consists of researching on case studies, conducting interviews and workshops as well as connecting different people in the local community to be involved in the project.</description>
-    </item>
-    
-    <item>
-      <title>VTN Architects</title>
-      <link>/post/vtn/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/vtn/</guid>
-      <description>Project Name: Farming Kindergarten Location: Dongnai, Vietnam Date Designed: 2012
-Date Completed: 2013
-Size: 3,800 sqm Client: Pou Chen Vietnam
-Programme: Education ABOUT VTN Architects
-VTN Architects is a well-known architectural firm in Vietnam, with two branches, located in Hanoi and Ho Chi Mihn city. The firm mainly focuses on cultural, residential, and commercial projects for both local and international clients.
-Vo Trong Nghia, an architectural graduate from University of Tokyo, founded VTN Architects in 2006.</description>
     </item>
     
   </channel>

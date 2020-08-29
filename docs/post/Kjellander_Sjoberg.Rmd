@@ -1,8 +1,8 @@
 ---
-author: Shawn & Fadhilah #put the names of students
+author: Shawn Low & Fadhilah Nordin #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-08-22" #use the same date for all
+date: "2020-02-09" #use the same date for all
 description: Kjellander Sjöberg is an award-winning Swedish office recognised for its influence in contemporary architecture, urban practice and the architectural discourse. #brief description about the firm
 draft: false
 image: images/post/09_Kjellander_2.jpg  #place a corresponding image in the "images" => "post"
@@ -35,6 +35,7 @@ example below-->
 
 ![Kjellander Sjöberg](https://socialarchi.github.io/images/post/09_Kjellander_1.jpg) 
 
+<span style="color:#E7451F">Interview with SJOBERG Stefan of Kjellander Sjöberg</span><br>
 <span style="color:#E7451F">__Insights and Takeaways__</span><br>
 __1.  HOW HAS THE COVID SITUATION AFFECTED YOUR WORKFLOW?__<br>
 Sweden has been both criticised for its covid stance, we have been having quite an open society still, people trust the government. We trust and act upon what they do. So we could use Teams and digital meetings and interactive sketches tools without meeting (in real life), and I think that works and this kind of digital processes benefitted us so much. <br>
