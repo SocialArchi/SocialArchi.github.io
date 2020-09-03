@@ -48,7 +48,7 @@ case_geo <- read_csv(("Data/case_studies_sf_25Aug2020.csv")) %>% select(-ID, -Li
     "https://www.archdaily.com/51664/handmade-school-anna-heringer-eike-roswag",
     "https://www.archdaily.com/778269/diamond-island-community-center-vo-trong-nghia-architects",
     "https://www.archdaily.com/10775/quinta-monroy-elemental",
-    "https://socialarchi.github.io/post/billion_bricks/",
+    "https://www.billionbricks.org/",
     "https://socialarchi.github.io/post/ix_architects/"
   ))
 ```
@@ -58,7 +58,7 @@ case_geo <- read_csv(("Data/case_studies_sf_25Aug2020.csv")) %>% select(-ID, -Li
 VTN: https://socialarchi.github.io/post/vtn/
 https://www.archdaily.com/778269/diamond-island-community-center-vo-trong-nghia-architects
 ANNA: https://socialarchi.github.io/post/studio_anna_heringer/
-
+billionbricks: https://socialarchi.github.io/post/billion_bricks/
 -->
 
 
@@ -96,7 +96,7 @@ leaflet() %>%
 <!-- - [Studio Anna Heringer](https://socialarchi.github.io/post/studio_anna_heringer/){target="_blank"} -->
 - [DnA_Design and Architecture](https://socialarchi.github.io/post/dna/){target="_blank"}
 <!-- - [VTN Architects](https://socialarchi.github.io/post/vtn/){target="_blank"} -->
-- [BillionBricks](https://socialarchi.github.io/post/billion_bricks/){target="_blank"}
+<!-- - [BillionBricks](https://socialarchi.github.io/post/billion_bricks/){target="_blank"} -->
 - [Atelier-3](https://socialarchi.github.io/post/atelier-3/){target="_blank"}
 - [CAUKIN Studio](https://socialarchi.github.io/post/caukin_studio/){target="_blank"}
 - [SHAU Rotterdam-Bandung](https://socialarchi.github.io/post/shau/){target="_blank"}

@@ -2,7 +2,7 @@
 author: Michelle Chen & Lucas Ngiam #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2019-08-15" #use the same date for all
+date: "2019-08-14" #2019-08-15
 description: One Bite is a creative team of strategists, architects, designers, community outreach managers and event managers.  #brief description about the firm
 draft: false
 image: images/post/15_One Bite Design Studio_01.jpg  #place a corresponding image in the "images" => "post"

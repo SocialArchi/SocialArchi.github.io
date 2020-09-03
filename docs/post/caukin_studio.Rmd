@@ -2,7 +2,7 @@
 author: Ng Wen Qi & Ryan Teo #put the names of students
 categories: #"casestudies" is the default 
 - casestudies
-date: "2020-05-06" #use the same date for all
+date: "2020-05-05" #2020-05-06
 description: A design studio focused on returning ownership of design to the community, through better designed, accessible spaces for all.
 draft: false
 image: images/post/06_CAUKIN Studio_1.jpg  #place a corresponding image in the "images" => "post"
