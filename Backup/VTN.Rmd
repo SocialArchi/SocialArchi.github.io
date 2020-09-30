@@ -1,0 +1,67 @@
+---
+author: Arisa & Rachel #put the names of students
+categories: #"casestudies" is the default 
+- casestudies
+date: "2020-08-13" #use the same date for all
+description: VTN Architects is a firm known for their sustainable design which is often a fusion between the traditional and modern architecture.
+draft: false
+image: images/post/header3.jpg  #place a corresponding image in the "images" => "post"
+tags: #use "keywords" in the excel
+- Sustainable Innovation
+- Urban Revitalisation
+title: VTN Architects #put the name of the firm
+---
+
+__Project Name:__ Farming Kindergarten <br>
+__Location:__ Dongnai, Vietnam <br>
+__Date Designed:__ 2012<br>
+__Date Completed:__ 2013<br>
+__Size:__ 3,800 sqm <br>
+__Client:__ Pou Chen Vietnam<br>
+__Programme:__ Education
+<br><br>
+
+<span style="color:#E7451F">__ABOUT VTN Architects__</span><br>
+VTN Architects is a well-known architectural firm in Vietnam, with two branches, located in Hanoi and Ho Chi Mihn city. The firm mainly focuses on cultural, residential, and commercial projects for both local and international clients.<br>
+Vo Trong Nghia, an architectural graduate from University of Tokyo, founded VTN Architects in 2006. The main design philosophy behind his firm is to create an architecture that is a fusion between vernacular and contemporary design, while simultaneously integrating a sustainable and green system. This can be achieved through research, exploration, and experimentation of natural and local materials and the benefits of the existing site. <br>
+VTN Architects has worked on various projects that have won awards of different categories, both locally and internationally. Recently in 2019, Bamboo Stalactite Pavilion, Breathing House, and Nocenco Cafe projects won the Green Good. While Diamond Island Community Hall, Naman Retreat Babylon, Farming Kindergarten projects won the International Architecture Award in 2015. <br><br>
+
+<span style="color:#E7451F">__ABOUT Pou Chen Vietnam__</span><br>
+Farming Kindergarten is an educational space for low income children of factory workers. The design integrates greenery throughout, not only to help achieve a sustainable design, but to also expose the children to the agricultural scene of Vietnam and to create a fun and vibrant place for them to learn and play <br><br>
+
+
+<!-- Photo of the project -->
+
+<!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
+example below-->
+
+![VTN Architects](https://socialarchi.github.io/images/post/03_VTN Architects_2.jpg) 
+
+<span style="color:#E7451F">__Insights and Takeaways__</span><br>
+__1. HOW DO YOU THINK THE FUTURE OF ARCHITECTURE HAS BEEN AFFECTED BY THE PANDEMIC__<br>
+-<br><br>
+
+__2. DO YOU THINK ARCHITECTURE IS A FULFILLING CAREER AND WHAT ADVICE CAN YOU GIVE TO A BUDDING ARCHITECT__<br>
+-<br><br>
+
+<span style="color:#E7451F">__Interview Transcript__</span><br>
+__Q1: Are there any benefits, other than sustainability to using local materials? Are there any restrictions to the structural or form designs, that the properties of bamboo may be able to achieve that other materials such as concrete and steel may not be able to achieve, and vice versa?__<br>
+- <br><br>	
+
+__Q2: Many of your projects aim to tackle issues that Vietnam is facing, such as lack of greenery, overheating, pollution, and flooding, to what extent do you think these issues can be solved through architecture and design?__<br>
+-<br><br>
+
+__Q3: Projects like the “Farming Kindergarten” are designed for children from low income families, how does the architecture and the understanding of local context respond to the program? <br>
+-<br><br>
+
+__Q4:In what sense do you think the project is successful in serving its purpose, and if you could go back, are there anything you would have done or designed differently?__<br>
+
+-<br><br>
+
+__Q5: How would you take your firm / projects forward in future? __<br>
+
+-<br><br>
+
+__Q6: How has the community responded to the design? Do they find it useful and a proper representation of their culture?__<br>
+
+-<br><br>
