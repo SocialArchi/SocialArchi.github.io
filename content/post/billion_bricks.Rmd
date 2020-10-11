@@ -1,0 +1,62 @@
+---
+author: Natalie Tsang & Maggie #put the names of students
+categories: #"casestudies" is the default 
+- casestudies
+date: "2020-05-06" #use the same date for all
+description: billionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.
+draft: false
+image: images/post/04_billionBricks_1.PNG  #place a corresponding image in the "images" => "post"
+tags: #use "keywords" in the excel
+- Innovation
+- Urban Revitalisarion
+- Empowerment
+title: BillionBricks #put the name of the firm
+---
+
+__Project Name:__ powerHYDE <br>
+__Location:__ Konchur Karnataka, India <br>
+__Date Designed:__ 2019<br>
+__Date Completed:__ In Progress<br>
+__Size:__ 34,000 sqm sqm<br>
+__Client:__ - <br>
+__Programme:__ Residential
+<br><br>
+
+<span style="color:#E7451F">__ABOUT BillionBricks__</span><br>
+Housing is a basic necessity and a human right, the first step of empowerment towards emerging out of poverty. Co-founders of billionBricks Prasoon Kumar and Anurag Srivastava envision “a world where no one is homeless, and where everyone has access to opportunities for economic and social upliftment” (Rebel, 10 Restorative Innovation Initiatives from Singapore You Should Know 2018). billionBricks is a design and innovation studio with the sole purpose of providing high-quality solutions to end homelessness, to tackle the lack of inadequate housing to the less developed areas.<br><br>
+
+<span style="color:#E7451F">__ABOUT powerHYDE__</span><br>
+__powerHYDE__ is an affordable and self-sustainable housing solution for India’s rural homeless population. The project designed around three primary considerations, namely the considerable demand for housing, the need for sustainable use and production of energy, and a self-financing strategy that grants independence and self-sustenance to residents. With the use of modern design and technology, it is thus the world’s first carbon-negative housing for the homeless and upon successful completion, aims to be scaled and customised to solve homelessness in other contexts. <br><br>
+
+
+<!-- Photo of the project -->
+
+<!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
+example below-->
+
+![billionBricks](https://socialarchi.github.io/images/post/04_billionBricks_2.jpg) 
+
+<span style="color:#E7451F">Interview with KUMAR Prasoon of billionBricks</span><br>
+<span style="color:#E7451F">__Insights and Takeaways__</span><br>
+__1. HOW HAS THE PANDEMIC AFFECTED YOUR WORK?__<br>
+We were in transition from non-profit to for-profit before the pandemic, so we have no active projects going on right now. It has impacted us as we do not work in Singapore, and we need to travel and work in communities that are generally quite far off or in rural areas whereby connection may not be good. Working online was initially a little hard for us to communicate and to develop new projects in the Philippines. So we had to delay our plans. However, we are now seeing that people there are adapting to working remotely. We have been presenting to government officials and many mayors online as well. While it is more difficult for us to visit the sites and analyse them, the construction had not been affected.<br>
+
+From a business standpoint, we see how we can leverage the best possible situation. We do think that travel is going to be restricted for quite some time, which used to be crucial for us. So we are hiring people at senior-level from the Philippines. It would also probably take about a year to raise fund, and by that time hopefully the pandemic will start to subside. Or by that time the world will come to terms that is ok for you not to travel, but you still must find ways to work. In that case local organisations may become even stronger. The may be some glitches, but it will be fine in general, as the need for housing is always there. In the future there might even be a possibility that people would want to move back to the rural areas as they are safer than the cities. Cities will also need to look after denser areas like slumps, and to relocate the residents. This is where we could come in and help.
+<br><br>
+
+__2. WHAT ADVICE WOULD YOU GIVE TO STUDENTS OR ARCHITECTS TAKING UP SOCIAL ARCHITECTURE PROJECTS?__<br>
+I would advise architects to do the right thing. And do what you speak about. In conferences and schools, you always talk about social architecture and doing things for the community, but nobody actually does it eventually. We talk about sustainability, but we still build a glass building in Dubai, and we reverse the story around saying “oh this glass is very efficient and it is a very sustainable building”. So, I think we should be true to ourselves whether we really care about the environment, whether we really care about the community, or whether we care about ourselves. We should not speak [about] something which is not [what we plan to do].<br>
+
+[Another] issue is that we often listen and just accept, and we do not question them. It is important to question everything you hear when somebody tells you, especially teachers. You should also question the things that I say. I am sure in a social architecture class you have been taught about community participation in the design and that you should involve the community. Why do we need to involve the community in design? I live in a house in Singapore, and I was never involved in the design, and I like my house. I do not see the need for people to be involved in it to like it. This could be right as well. We need to really question, and understand why certain thing is needed or not needed. I think that is an important part of learning.<br><br>
+
+<span style="color:#E7451F">__Interview Transcript__</span><br>
+__Q1: What other challenges do you face?__<br>
+Generally, I would think that there are no issues on the community side. Most of the work we do is in rural areas, so there are not much regulatory constraints, as compared to urban areas. <br><br>	
+
+__Q2: Homelessness is a problem in both developing and developed countries. Although less prevalent in developed countries, do you intend on taking up projects in such countries as well in the future? Or in your opinion, should the developing countries be prioritized first?__<br>
+Most of our weatherHYDE tents are deployed in America. We are not biased in which country; whether or not it is in a developed or developing country. It is just that the need for developed countries is less compared to less-developed countries. We live in Singapore, and there are not too many developed countries around, so we tend to work in developing countries, as close proximity helps. We can raise money for the neighbouring countries. Non-profit tend to help developing countries more than developed countries because of reasons like where we have an opportunity to work and not from the point of whether we choose to work for a developing or developed countries.<br>
+
+If you are talking about powerHYDE, we also do [deploy] them in developed countries. We have them in the Philippines, and are looking for opportunities in Australia and the United States. <br><br>
+
+__Q3: BillionBricks have just changed their model from being an NGO to a for-profit company. May I ask why this decision and what are your plans for the future base on this new model?__<br>
+I came up with the idea of powerHYDE two years ago. The project can be financially viable without grants and funding from donations. I successfully found someone who would be our investor if this project could bring in revenue. So, if we can find someone who says that powerHYDE is a strong idea, that we can go and build it for the poor people, it does not matter whether it is a for-profit or non-profit, as long as I am able to achieve the objectives.<br>

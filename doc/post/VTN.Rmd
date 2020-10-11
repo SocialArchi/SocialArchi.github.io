@@ -1,0 +1,55 @@
+---
+author: Arisa & Rachel #put the names of students
+categories: #"casestudies" is the default 
+- casestudies
+date: "2020-06-05" #use the same date for all
+description: VTN Architects is a firm known for their sustainable design which is often a fusion between the traditional and modern architecture.
+draft: false
+image: images/post/03_VTN-Architects.jpg  #place a corresponding image in the "images" => "post"
+tags: #use "keywords" in the excel
+- Sustainable Innovation
+- Rural Revitalisation
+- Education
+title: VTN Architects #put the name of the firm
+---
+
+__Project Name:__ Farming Kindergarten <br>
+__Location:__ Dongnai, Vietnam <br>
+__Date Designed:__ 2012<br>
+__Date Completed:__ 2013<br>
+__Size:__ 3,800 sqm <br>
+__Client:__ Pou Chen Vietnam<br>
+__Programme:__ Education
+<br><br>
+
+<span style="color:#E7451F">__ABOUT VTN Architects__</span><br>
+VTN Architects is a well-known architectural firm in Vietnam, with two branches, located in Hanoi and Ho Chi Mihn city. The firm mainly focuses on cultural, residential, and commercial projects for both local and international clients. Vo Trong Nghia, an architectural graduate from University of Tokyo, founded VTN Architects in 2006. The main design philosophy behind his firm is to create an architecture that is a fusion between vernacular and contemporary design, while simultaneously integrating a sustainable and green system. This can be achieved through research, exploration, and experimentation of natural and local materials and the benefits of the existing site. VTN Architects has worked on various projects that have won awards of different categories, both locally and internationally. Recently in 2019, Bamboo Stalactite Pavilion, Breathing House, and Nocenco Cafe projects won the Green Good. While Diamond Island Community Hall, Naman Retreat Babylon, Farming Kindergarten projects won the International Architecture Award in 2015.<br><br>
+
+<span style="color:#E7451F">__ABOUT Pou Chen Vietnam__</span><br>
+Farming Kindergarten is an educational space for low income children of factory workers. The design integrates greenery throughout, not only to help achieve a sustainable design, but to also expose the children to the agricultural scene of Vietnam and to create a fun and vibrant place for them to learn and play <br><br>
+
+
+<!-- Photo of the project -->
+
+<!-- ![caption: name of the project](https://socialarchi.github.io/images/post/"name of the file") 
+example below-->
+
+![Farming Kindergarten](https://socialarchi.github.io/images/post/03_VTN-Architects_dummy_2.jpg) 
+
+<span style="color:#E7451F">__Interview Transcript__</span><br>
+__Q1. What are the benefits in using local materials? What is your philosophy about Green Architecture as an architectural approach?__<br>
+Our architectural approach champions building structures that minimise the harmful effects on the environment and human health, by choosing eco-friendly building materials and construction practices that help safeguard our natural resources. To me, Green Architecture also means to live harmoniously with nature. I think we tend to create buildings that isolate us from nature, but when we stay in this environment for too long, it becomes uncomfortable. Through this approach, I want to create buildings that allow us to live inside nature, instead of apart from it. When I was growing up in my hometown in Vietnam, we were living in a village without electricity until I was 21 years old. When you are in the heat, and the temperature is around 40 degrees Celsius, the shade from trees, water, and ventilation are essential. That is the reason why I love trees and nature, and I always incorporate these elements in my designs. <br><br>
+
+
+__Q2: Many of your projects aim to tackle issues that Vietnam is facing, such as lack of greenery, overheating, pollution, and flooding, to what extent do you think these issues can be solved through architecture and design?__<br>
+We design every building from small house, school, university or resort, and we design all of them as city parks. If all architects could do that, our city will surely be greener. As part of our House for Trees project, we worked to incorporate green spaces into the city. Cities in Vietnam have diverged far away from their origins as rampant tropical forests, with only 0.25% of the entire city being covered by greenery – our project is an effort to change that. One of our prototypical houses, consisting of five concrete boxes, each housing a different program, were designed as “pots” to plant trees on their tops. These “pots” also function as storm-water basins for detention and retention, thereby helping to reduce the risk of flooding in the city when the concept is applied to more houses in the future. <br><br>	
+
+__Q3: What do you think is the future of architecture or how might architecture be different, now that we are going through a pandemic? And how woul you take your firm and projects forward in the future?__<br>
+The best way to go is to make the most use of natural energy. This can be done by using good ventilation to replace air conditioning, as I do in my home and office space, as well as recycling water or using solar panels to maximise the utility of what nature offers.<br> 
+A major part of green urban living is also incorporating green practices into our daily lives. For instance, we grow vegetables and plants in our office, and our staff can enjoy these organic vegetables every day. We also support all our staff to stay in accommodations within walking distance from our office space, allowing them to minimise their carbon footprints as they can walk to work, instead of taking the bus or a motorcycle. I believe that if everyone adopted such practices, it would go a long way in promoting sustainability, environmental and even human health.
+<br><br>
+
+__Q4: Do you think architecture is a fulfilling career and what advice can you give to a budding architect?__<br>
+If possible, maintain the 5 precepts: To refrain from taking life, ie. killing any living creature. To refrain from stealing. to refrain from misuse of the senses or sexual misconduct. to refrain from lying or gossiping to refrain from drugs or alcohol. These are important for our mentality, really good for this life and also many next lives. <br>
+Do as much internship as possible, and in many architecture firms. Learn what software they are using, how to make models, how to deal with deadlines, join many competitions, etc. Good to learn as much as possible when you are young.
+<br><br>

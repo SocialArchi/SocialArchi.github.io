@@ -6,7 +6,7 @@ googleAnalytics ="UA-176008810-1"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "10"
+paginate = "11"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 

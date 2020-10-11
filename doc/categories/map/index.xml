@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>map on Social Architecture</title>
+    <link>/categories/map/</link>
+    <description>Recent content in map on Social Architecture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive Map</title>
+      <link>/post/map/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/map/</guid>
+      <description>{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Stamen.Toner&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;detectRetina&#34;:false}]},{&#34;method&#34;:&#34;addCircleMarkers&#34;,&#34;args&#34;:[[37.5641134,-16.8006309,51.5611976,1.3167354,63.1757722,39.9386949,14.6020431,27.9110176,-1.4918885,22.3193039,28.495075,53.3924013,-6.909758,41.9433816,1.3505428,28.312001,1.4142648,25.6346367,10.9318693,-20.229588,16.9913932,13.3632533],[140.1078445,179.3618146,-0.0928437,103.8388212,14.639316,116.417661,121.0496824,84.8919664,29.5571677,114.1693611,119.401878,-2.9558926,107.591709,-87.6946043,103.7076413,109.738781,103.8279127,88.583867,106.8095841,-70.1359998,76.9909475,103.856403],12,null,null,{&#34;interactive&#34;:true,&#34;className&#34;:&#34;&#34;,&#34;stroke&#34;:true,&#34;color&#34;:&#34;#E7451F&#34;,&#34;weight&#34;:0,&#34;opacity&#34;:0.5,&#34;fill&#34;:true,&#34;fillColor&#34;:&#34;#E7451F&#34;,&#34;fillOpacity&#34;:0.5},null,null,[&#34;Project Name&amp;emsp;Hajimari Art Center&amp;emsp;Firm&amp;emsp;studio-L&amp;emsp;Keywords&amp;emsp;Citizen Participation, Empowerment, Art Brut, Social Welfare&amp;emsp;Country&amp;emsp;Japan&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Naidi Community Hall&amp;emsp;Firm&amp;emsp;CAUKIN Studio&amp;emsp;Keywords&amp;emsp;Democratic education, Quality Design, Accessibility for All, Community Focused, Sustainable Innovation&amp;emsp;Country&amp;emsp;Fiji&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Kings Crescent Estate&amp;emsp;Firm&amp;emsp;Muf Architecture + Art&amp;emsp;Keywords&amp;emsp;Citizen Participation, Empowerment&amp;emsp;Country&amp;emsp;United Kingdom&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Hack Our Play - St. James Church Kindergarten&amp;emsp;Firm&amp;emsp;Participate in Design (P!D)&amp;emsp;Keywords&amp;emsp;Citizen Participation&amp;emsp;Country&amp;emsp;Singapore&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Cultural Block Östersund&amp;emsp;Firm&amp;emsp;Kjellander Sjöberg&amp;emsp;Keywords&amp;emsp;Citizen Participation, Social Integration, Revitalisation&amp;emsp;Country&amp;emsp;Sweden&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;,&#34;Project Name&amp;emsp;Leping Social Entrepreneur Foundation Headquarter&amp;emsp;Firm&amp;emsp;People&#39;s Architecture Office&amp;emsp;Keywords&amp;emsp;People, Social wellbeing Collaboration, Integration&amp;emsp;Country&amp;emsp;China&amp;emsp;Details&amp;emsp;Click Here&amp;emsp;&#34;</description>
+    </item>
+    
+  </channel>
+</rss>
