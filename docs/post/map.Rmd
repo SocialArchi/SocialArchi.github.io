@@ -46,8 +46,7 @@ case_geo <- read_csv(("Data/case_studies_sf_11ct2020.csv")) %>% select(-ID, -Lin
     "http://www.rufwork.org/index.php?/project/angdong-health-centre-10/",
     "https://socialarchi.github.io/post/gui",
     "https://socialarchi.github.io/post/studio_anna_heringer/",
-    "https://socialarchi.github.io/post/vtn/
-https://www.archdaily.com/778269/diamond-island-community-center-vo-trong-nghia-architects",
+    "https://socialarchi.github.io/post/vtn/",
     "https://www.archdaily.com/10775/quinta-monroy-elemental",
     "https://socialarchi.github.io/post/billion_bricks/",
     "https://socialarchi.github.io/post/ix_architects/"
