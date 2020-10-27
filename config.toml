@@ -70,7 +70,7 @@ weight = 3
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it."
 author = "Themefisher"
 # search  
 search = true
