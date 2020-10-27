@@ -70,8 +70,8 @@ weight = 3
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it."
-author = "Themefisher"
+description = "Social Architecture — Theory and Practice aims to equip the students with theoretical/historical knowledge of ‘Social Architecture’ as well as practical skills for practicing it"
+author = "Associate Professor Keng Hua CHONG & Yohei KATO"
 # search  
 search = true
 # contact form action
